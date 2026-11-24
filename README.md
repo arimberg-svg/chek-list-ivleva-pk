@@ -9,6 +9,6 @@
 **https://arimberg-svg.github.io/chek-list-ivleva-pk/**
 
 - [Лист Елены](https://arimberg-svg.github.io/chek-list-ivleva-pk/)
-- [Контроль СПК, лист Андрея](https://arimberg-svg.github.io/chek-list-ivleva-pk/andrey/)
+- [Контроль СПК, лист Андрея](https://arimberg-svg.github.io/chek-list-ivleva-pk/andrey.html)
 
 Репозиторий: https://github.com/arimberg-svg/chek-list-ivleva-pk
