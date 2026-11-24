@@ -4,8 +4,11 @@
 
 Шаги написаны в самом листе. Отметки хранятся в браузере. Лист можно напечатать.
 
-## Ссылка
+## Ссылки
 
-https://arimberg-svg.github.io/chek-list-ivleva-pk/
+**https://arimberg-svg.github.io/chek-list-ivleva-pk/**
+
+- [Лист Елены](https://arimberg-svg.github.io/chek-list-ivleva-pk/)
+- [Контроль СПК, лист Андрея](https://arimberg-svg.github.io/chek-list-ivleva-pk/andrey/)
 
 Репозиторий: https://github.com/arimberg-svg/chek-list-ivleva-pk
